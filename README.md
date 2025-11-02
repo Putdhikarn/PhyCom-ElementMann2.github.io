@@ -1,0 +1,37 @@
+# ElementMann2
+Project นี้เป็นส่วนหนึ่งในรายวิชา Physical Computing รหัสวิชา 06016409 ภาคเรียนที่ 1 ปีการศึกษา 2568 ของคณะเทคโนโลยีสารสนเทศ สาขาเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
+## Abstract
+โครงงานนี้จัดทำขึ้นเพื่อประกอบการเรียนวิชา PHYSICAL COMPUTING ชั้นปีการศึกษาปีที่ 2 โดยมีวัตถุประสงค์เพื่อศึกษาการร้างโปรแกรมโดยใช้ภาษา C
+ซึ่ง ElementMann2 คือโปรเจคเกมภาคต่อจาก ElementMannที่ได้ถูกสร้างไว้ ในวิชา OBJECT-ORIENTED PROGRAMMING เป็นเกมแนว Platformer
+คล้าย Mega Man ผู้เล่นจะได้สวมบทบาทเป็นตัวละครที่ต่อสู้และฟันฝ่าอุปสรรคต่างๆ เพื่อนำพลังเหล่านั้นไปพิชิตความมืด
+## Game Info
+เกมแนว Platformer ที่ผู้เล่นจะได้สวมบทบาทเป็นตัวละครที่ต่อสู้และฟันฝ่าอุปสรรคไปในวิหารธาตุต่างๆเพื่อนำพลังธาตุจากวิหารเหล่านั้นไปพิชิตความชั่วร้าย 
+ซึ่งจะเป็นภาคต่อของเกมภาคแรก ที่มีศัตรูประเภทใหม่ และด่านรูปแบบใหม่ที่เพิ่มความท้าทายให้กับผู้เล่นมากขึ้น ซึ่งตัวละครของผู้เล่นจะมีพลังธาตุต่างๆที่ใช้ในการต่อสู้กับศัตรู
+## Compiling Instruction
+(ใช้ raylib, gcc, gnumake)
+1. Clone ตัว source ของเกม
+2. รัน makefile ใน directory หลักของเกม
+3. ตัวเกมที่ compiled แล้วจะอยู่ใน ./build/game.exe
+## Library ที่ใช้
+- [Raylib](https://www.raylib.com/)
+## โปรแกรมภายนอกที่ใช้
+- [VSCode](https://code.visualstudio.com/)
+- [mingw-w64 GCC](https://www.mingw-w64.org/)
+- [GNUMake](https://www.gnu.org/software/make/)
+- [Audacity](https://www.audacityteam.org/)
+- [Tiled](https://www.mapeditor.org/)
+- [Beepbox](https://www.beepbox.co/)
+- [Aseprite](https://www.aseprite.org/)
+## Website
+- [Projecct Github](https://github.com/Putdhikarn/ElementMann2)
+- [Project Website](https://putdhikarn.github.io/PhyCom-ElementMann2.github.io/)
+- [Project Website Github](https://github.com/Putdhikarn/PhyCom-ElementMann2.github.io)
+- [Element Mann1](https://drive.google.com/file/d/1w-kb3iIiLoURTrlO7yjTNdZpfDmk_yDV/view?usp=sharing)
+- [Element Mann1 Src](https://drive.google.com/file/d/1vzjNWwokbudhxGu5FML3rgsksWfIgzc7/view?usp=sharing)
+## สมาชิกในกลุ่ม
+| GithubUserName | Name | Id |
+|:---|:---|:---|
+|[Jessadew](https://github.com/Jessadew)|นายเจษฎาพร พานทอง| 67070024|
+|[Minwa2](https://github.com/Minwa2)|นายพชร วงศ์ภักดี |67070105|
+|[Putdhikarn](https://github.com/Putdhikarn)|นายพุทธิกานต์ ไกรนรา| 67070123|
+|[67070132](https://github.com/67070132)|นายภาวัต จันทร์เนตร| 67070132|
