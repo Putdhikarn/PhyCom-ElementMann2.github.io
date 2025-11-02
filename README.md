@@ -7,21 +7,6 @@ Project นี้เป็นส่วนหนึ่งในรายวิช
 ## Game Info
 เกมแนว Platformer ที่ผู้เล่นจะได้สวมบทบาทเป็นตัวละครที่ต่อสู้และฟันฝ่าอุปสรรคไปในวิหารธาตุต่างๆเพื่อนำพลังธาตุจากวิหารเหล่านั้นไปพิชิตความชั่วร้าย 
 ซึ่งจะเป็นภาคต่อของเกมภาคแรก ที่มีศัตรูประเภทใหม่ และด่านรูปแบบใหม่ที่เพิ่มความท้าทายให้กับผู้เล่นมากขึ้น ซึ่งตัวละครของผู้เล่นจะมีพลังธาตุต่างๆที่ใช้ในการต่อสู้กับศัตรู
-## Compiling Instruction
-(ใช้ raylib, gcc, gnumake)
-1. Clone ตัว source ของเกม
-2. รัน makefile ใน directory หลักของเกม
-3. ตัวเกมที่ compiled แล้วจะอยู่ใน ./build/game.exe
-## Library ที่ใช้
-- [Raylib](https://www.raylib.com/)
-## โปรแกรมภายนอกที่ใช้
-- [VSCode](https://code.visualstudio.com/)
-- [mingw-w64 GCC](https://www.mingw-w64.org/)
-- [GNUMake](https://www.gnu.org/software/make/)
-- [Audacity](https://www.audacityteam.org/)
-- [Tiled](https://www.mapeditor.org/)
-- [Beepbox](https://www.beepbox.co/)
-- [Aseprite](https://www.aseprite.org/)
 ## Website
 - [Projecct Github](https://github.com/Putdhikarn/ElementMann2)
 - [Project Website](https://putdhikarn.github.io/PhyCom-ElementMann2.github.io/)
